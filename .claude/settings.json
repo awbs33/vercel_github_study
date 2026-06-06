@@ -1,0 +1,6 @@
+{
+  "env": {
+    "CONDA_DEFAULT_ENV": "paddleocr_env",
+    "PATH": "/home/yjko/miniconda3/envs/paddleocr_env/bin:${PATH}"
+  }
+}
